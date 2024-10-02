@@ -1,11 +1,14 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <!-- Profile Image and Name -->
+  <div style="min-width: 250px; text-align: center;">
     <img src="{{ site.logo }}" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-  </div>
-  <div>
-    <h1>{{ site.title }}</h1>
+    <h2 style="color: #0073e6;">{{ site.title }}</h2>
     <p><strong>{{ site.description }}</strong></p>
-    
+    <a href="https://github.com/Karthi-DStech/AI-ML-Workloads" style="color: #0073e6;">View the Project on GitHub</a>
+  </div>
+
+  <!-- Contact Information -->
+  <div>
     <h3>Contact Information</h3>
     <ul>
       <li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -20,14 +23,6 @@
     <p><strong>Microsoft Certified:</strong> {{ site.microsoft_certified }}</p>
   </div>
 </div>
-
----
-
-## About Me
-<p>An optimistic master’s graduate with 3 and half years of experience as a Software Engineer and AI/ML Engineer. Holding Microsoft Certified Data Scientist and AI Engineer credentials, I have solid technical skills and proficiency in Python.</p>
-
----
-
 
 # AI/ML Project Portfolio
 
