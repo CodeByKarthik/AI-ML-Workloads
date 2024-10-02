@@ -6,15 +6,11 @@
 **Generative Adversarial Networks (GANs) driven Biomaterial Discovery**
 <br>
 [**Description:** Developed a GAN-driven Object Oriented Pipeline for scalable AI/ML integration.]
-<br>
-[**Publication:** Found a Novel GAN and Published Research Paper as a First Author]
 [Link](https://github.com/Karthi-DStech/GAN-Driven-Biomaterial-Discovery)
 
 **Biomaterial Discovery using Deniosing Diffusion Probabilistic Models (DDPM - Diffusion Models)** 
 <br>
 [**Description:** Developed an Object-Oriented  DDPM-based pipeline for a scalable code environment.]
-<br>
-[**Publication:** Published research paper for Biomaterial Discovery using DDPM.]
 [Link](https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery)
 
 **Variational Auto Encoders for Biomaterial Discovery**
@@ -28,7 +24,7 @@
 
 **H1N1 & Seasonal Flu Vaccination Prediction**
 <br>
-[Description: Ranked 20 out of 6500+ Competitors.] 
+[Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 6500+ competitors.] 
 [Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
 
 **Object-Oriented Pipeline for Machine Learning (Industry Standard & Best Practices)**
