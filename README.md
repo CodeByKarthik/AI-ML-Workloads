@@ -32,6 +32,11 @@
 [**Description:** Created an Object-Oriented ML Pipeline for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
 [Link](https://github.com/Karthi-DStech/Object-Oriented-Pipeline-for-Machine-Learning)
 
+**Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
+<br>
+[**Description:** This project focuses on performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features.]
+[Link](https://github.com/Karthi-DStech/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines)
+
 **Scalable Machine Learning Pipeline including Model-Based and SFS Feature Selection**
 <br>
 [**Description:** Implemented a scalable ML pipeline with feature selection techniques.]
