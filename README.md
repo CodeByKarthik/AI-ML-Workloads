@@ -6,12 +6,14 @@
 **Generative Adversarial Networks (GANs) driven Biomaterial Discovery**
 <br>
 [**Description:** Developed a GAN-driven Object Oriented Pipeline for scalable AI/ML integration.]
+<br>
 [**Publication:** Found a Novel GAN and Published Research Paper as a First Author]
 [Link](https://github.com/Karthi-DStech/GAN-Driven-Biomaterial-Discovery)
 
 **Biomaterial Discovery using Deniosing Diffusion Probabilistic Models (DDPM - Diffusion Models)** 
 <br>
 [**Description:** Developed an Object-Oriented  DDPM-based pipeline for a scalable code environment.]
+<br>
 [**Publication:** Published research paper for Biomaterial Discovery using DDPM.]
 [Link](https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery)
 
