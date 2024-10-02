@@ -65,7 +65,7 @@
 
 **RAG Query Translation Pipeline using Open AI & LangChain**
 <br>
-[**Description:**This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
+[**Description:** This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
 [Link](https://github.com/Karthi-DStech/RAG-Query-Translation--Semantic-Search)
 
 **RAG - Vector Search Pipeline for efficient retrieval**
