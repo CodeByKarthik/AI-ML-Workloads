@@ -68,12 +68,18 @@
 **- - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **RAG Query Translation Pipeline using Open AI & LangChain**
+<br>
+[**Description:**This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
 [Link](https://github.com/Karthi-DStech/RAG-Query-Translation--Semantic-Search)
 
 **RAG - Vector Search Pipeline for efficient retrieval**
+<br>
+[**Description:** Utilizes vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
 [Link](https://github.com/Karthi-DStech/VectorSearch-RAG-using-LangChain-OpenAI)
 
 **RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retreival**
+<br>
+[**Description:** Combines semantic search with Step Back and HyDe techniques for more accurate retrieval in complex queries within RAG systems.]
 [Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
 
 
@@ -81,6 +87,8 @@
 **- - - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)**
+<br>
+[**Description:** Implements an object-oriented pipeline for predicting attachment levels with CNNs, ensuring modularity, reusability, and scalability while adhering to industry best practices.]
 [Link](https://github.com/Karthi-DStech/CNN-for-Predicting-Attachment-Level-of-Bacteria)
 
 
