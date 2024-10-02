@@ -1,24 +1,5 @@
 # AI/ML Project Portfolio
 
-## Technical Skills
-
-#### Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Pytorch, Optuna, Flask, Fast API.
-#### Languages: Python, SQL, and Front-End Web Development Languages.
-#### Deployment Tools & Platforms: Azure Kubernetes Services, Azure Functions, Power BI & Power Platform.
-#### Generative AI: GANs, AEs, VAEs, Diffusion Models, Transformers, LLMs and RAG.
-#### Area of Expertise: Supervised Learning, Unsupervised Learning, Semi Supervised Learning, Generative Modelling. 
-#### AI/ML Methodologies: Object Oriented Pipeline for AI/ML,  End to End MLOps (including CI/CD), Azure DevOps, Model as a Service, Hyperparameter Tuning and Feature Engineering. 
-#### Data Science and Other Methodologies: Data Analysis, Exploratory Data Analysis, Dashboard Designing, Creating Visualization and Reports and Full Stack Web Development. 
-
-## Certifications
-
-#### Microsoft Certifications (Microsoft Certified Data Scientist and AI Engineer) 
-[Link] - (https://github.com/Karthi-DStech/Microsoft-Certifications)
-
-#### Udemy and Coursera Certifications (7 End to End Courses)
-[Link] - (https://github.com/Karthi-DStech/Udemy-and-Coursera-Certifications)
-
-
 ## Projects
 
 ### Machine Learning & MLOps Workloads
@@ -74,6 +55,25 @@
 
 #### Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)
 [Link] (https://github.com/Karthi-DStech/CNN-for-Predicting-Attachment-Level-of-Bacteria)
+
+## Technical Skills
+
+#### Libraries & Frameworks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Pytorch, Optuna, Flask, Fast API.
+#### Languages: Python, SQL, and Front-End Web Development Languages.
+#### Deployment Tools & Platforms: Azure Kubernetes Services, Azure Functions, Power BI & Power Platform.
+#### Generative AI: GANs, AEs, VAEs, Diffusion Models, Transformers, LLMs and RAG.
+#### Area of Expertise: Supervised Learning, Unsupervised Learning, Semi Supervised Learning, Generative Modelling. 
+#### AI/ML Methodologies: Object Oriented Pipeline for AI/ML,  End to End MLOps (including CI/CD), Azure DevOps, Model as a Service, Hyperparameter Tuning and Feature Engineering. 
+#### Data Science and Other Methodologies: Data Analysis, Exploratory Data Analysis, Dashboard Designing, Creating Visualization and Reports and Full Stack Web Development. 
+
+## Certifications
+
+#### Microsoft Certifications (Microsoft Certified Data Scientist and AI Engineer) 
+[Link] - (https://github.com/Karthi-DStech/Microsoft-Certifications)
+
+#### Udemy and Coursera Certifications (7 End to End Courses)
+[Link] - (https://github.com/Karthi-DStech/Udemy-and-Coursera-Certifications)
+
 
 
 
