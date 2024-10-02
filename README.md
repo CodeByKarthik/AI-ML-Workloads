@@ -1,6 +1,6 @@
 # AI/ML Project Portfolio
 
-###  <span style="color:blue">Machine Learning & MLOps Workloads</span>
+###  <span style="color:#0073e6">Machine Learning & MLOps Workloads</span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **H1N1 & Seasonal Flu Vaccination Prediction**
@@ -29,8 +29,8 @@
 [Link](https://github.com/Karthi-DStech/Capstone-projects-of-Data-Science-and-AI-ML)
 
 
-###  <span style="color:blue">Generative AI Modelling </span>
-**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
+###  <span style="color:#0073e6">Generative AI Modelling </span>
+**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **Generative Adversarial Networks (GANs) driven Biomaterial Discovery**
 [Link](https://github.com/Karthi-DStech/GAN-Driven-Biomaterial-Discovery)
@@ -42,8 +42,8 @@
 [Link](https://github.com/Karthi-DStech/Variational-AutoEncoders-for-Biomaterial-Discovery)
 
 
-###  <span style="color:blue">Retrieval Augmented Generation (RAG)</span>
-**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
+###  <span style="color:#0073e6">Retrieval Augmented Generation (RAG)</span>
+**- - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **RAG Query Translation Pipeline using Open AI & LangChain**
 [Link](https://github.com/Karthi-DStech/RAG-Query-Translation--Semantic-Search)
@@ -55,7 +55,7 @@
 [Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
 
 
-### <span style="color:blue">Deep Learning Workloads </span> 
+### <span style="color:#0073e6">Deep Learning Workloads </span> 
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)**
