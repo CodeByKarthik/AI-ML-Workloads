@@ -3,7 +3,8 @@ logo: /assets/img/my-profile.JPG
 Description:  MS Computer Science & AI | AI/ML Engineer | Microsoft Certified Data Scientist and AI Engineer. 
 show_downloads: false
 theme: jekyll-theme-minimal
-
+social:
+  email: karthinottsuk@gmail.com
   
 
 
