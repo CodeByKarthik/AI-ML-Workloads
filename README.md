@@ -1,28 +1,32 @@
-# ![Profile Picture]({{ site.logo }})
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <img src="{{ site.logo }}" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
+  </div>
+  <div>
+    <h1>{{ site.title }}</h1>
+    <p><strong>{{ site.description }}</strong></p>
+    
+    <h3>Contact Information</h3>
+    <ul>
+      <li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      <li><strong>LinkedIn:</strong> <a href="{{ site.linkedin }}" target="_blank">LinkedIn Profile</a></li>
+      <li><strong>Contact Number:</strong> {{ site.contact }}</li>
+    </ul>
 
-# {{ site.title }}
+    <h3>Specialization</h3>
+    <p>{{ site.specialisation }}</p>
 
-**{{ site.description }}**
-
----
-
-## Contact Information
-- **Email:** [{{ site.email }}](mailto:{{ site.email }})
-- **LinkedIn:** [LinkedIn Profile]({{ site.linkedin }})
-- **Contact Number:** {{ site.contact }}
-
-## Specialization
-- {{ site.specialisation }}
-
-## Certifications
-- **Microsoft Certified:** {{ site.microsoft_certified }}
+    <h3>Certifications</h3>
+    <p><strong>Microsoft Certified:</strong> {{ site.microsoft_certified }}</p>
+  </div>
+</div>
 
 ---
 
 ## About Me
+<p>An optimistic master’s graduate with 3 and half years of experience as a Software Engineer and AI/ML Engineer. Holding Microsoft Certified Data Scientist and AI Engineer credentials, I have solid technical skills and proficiency in Python.</p>
 
-An optimistic master’s graduate with 3 and half years of experience as a Software Engineer and AI/ML Engineer and holding Microsoft Certified Data Scientist and AI Engineer credentials, I have solid technical skills and proficiency in Python. 
-
+---
 
 
 # AI/ML Project Portfolio
