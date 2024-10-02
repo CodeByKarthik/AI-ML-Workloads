@@ -1,29 +1,3 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <!-- Profile Image and Name -->
-  <div style="min-width: 250px; text-align: center;">
-    <img src="{{ site.logo }}" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
-    <h2 style="color: #0073e6;">{{ site.title }}</h2>
-    <p><strong>{{ site.description }}</strong></p>
-    <a href="https://github.com/Karthi-DStech/AI-ML-Workloads" style="color: #0073e6;">View the Project on GitHub</a>
-  </div>
-
-  <!-- Contact Information -->
-  <div>
-    <h3>Contact Information</h3>
-    <ul>
-      <li><strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-      <li><strong>LinkedIn:</strong> <a href="{{ site.linkedin }}" target="_blank">LinkedIn Profile</a></li>
-      <li><strong>Contact Number:</strong> {{ site.contact }}</li>
-    </ul>
-
-    <h3>Specialization</h3>
-    <p>{{ site.specialisation }}</p>
-
-    <h3>Certifications</h3>
-    <p><strong>Microsoft Certified:</strong> {{ site.microsoft_certified }}</p>
-  </div>
-</div>
-
 # AI/ML Project Portfolio
 
 ###  <span style="color:#433878">Generative AI Modelling </span>
