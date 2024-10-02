@@ -65,7 +65,7 @@
 
 
 ###  <span style="color:#433878">Retrieval Augmented Generation (RAG)</span>
-**- - - - - - - - - - - - - - - - - - - - - - - - -**
+**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **RAG Query Translation Pipeline using Open AI & LangChain**
 <br>
