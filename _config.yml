@@ -4,4 +4,8 @@ description: Software Engineer | AI/ML Engineer
 show_downloads: false
 theme: jekyll-theme-minimal
 
+# Add contact info
+contact_info:
+  email: karthikeyan@example.com
+  phone: +1 234 567 8901
 
