@@ -22,14 +22,9 @@
 ###  <span style="color:#433878">Machine Learning & MLOps Workloads</span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**H1N1 & Seasonal Flu Vaccination Prediction**
+**Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
 <br>
-[Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 6500+ competitors.] 
-[Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
-
-**Object-Oriented Pipeline for Machine Learning (Industry Standard & Best Practices)**
-<br>
-[**Description:** Created an Object-Oriented ML Pipeline for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
+[**Description:** Created an Object-Oriented ML Framework for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
 [Link](https://github.com/Karthi-DStech/Object-Oriented-Pipeline-for-Machine-Learning)
 
 **Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
@@ -41,6 +36,11 @@
 <br>
 [**Description:** Implemented a scalable ML pipeline with feature selection techniques.]
 [Link](https://github.com/Karthi-DStech/Scalable-Model-Based-and-SFS-Feature-Selection)
+
+**H1N1 & Seasonal Flu Vaccination Prediction**
+<br>
+[Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 6500+ competitors.] 
+[Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
 
 **Implementing Industry Standard Methodologies for Cirrhosis Prediction**
 <br>
