@@ -3,15 +3,25 @@
 ###  <span style="color:#433878">Generative AI Modelling </span>
 **- - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**Generative Adversarial Networks (GANs) driven Biomaterial Discovery**
+**Generative Adversarial Networks (GANs Framework) for Biomaterial Discovery**
 <br>
-[**Description:** Developed a GAN-driven Object Oriented Pipeline for scalable AI/ML integration.]
-[Link](https://github.com/Karthi-DStech/GAN-Driven-Biomaterial-Discovery)
+[**Description:** Developed a GAN-driven Object-Oriented Framework for scalable GAN integration.]
+[Link](https://github.com/Karthi-DStech/Generative-Adversarial-Networks-Framework)
+
+**DiffuSphere - An Object-Oriented Framework for Image Generation**
+<br>
+[**Description:** A comprehensive framework implementing DDPM, CFG, and EMA techniques for versatile diffusion model applications.]
+[Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
 
 **Biomaterial Discovery using Deniosing Diffusion Probabilistic Models (DDPM - Diffusion Models)** 
 <br>
-[**Description:** Developed an Object-Oriented  DDPM-based pipeline for a scalable code environment.]
-[Link](https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery)
+[**Description:** Developed an Object-Oriented DDPM-based pipeline for a scalable code environment.]
+[Link](https://github.com/Karthi-DStech/Diffusion-Models-Framework-for-Biomaterial-Discovery)
+
+**Classifier Free Guidance for DDPM**
+<br>
+[**Description:**A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
+[Link](https://github.com/Karthi-DStech/Classifier-Free-Guidance-Diffusion-Models)
 
 **Variational Auto Encoders for Biomaterial Discovery**
 <br>
@@ -84,8 +94,8 @@
 [Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
 
 
-### <span style="color:#433878">Deep Learning Workloads </span> 
-**- - - - - - - - - - - - - - - - - - - - - - - - - -**
+### <span style="color:#433878">Other Deep Learning Workloads </span> 
+**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
 **Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)**
 <br>
