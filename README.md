@@ -8,7 +8,7 @@
 [**Description:** Developed a GAN-driven Object-Oriented Framework for scalable GAN integration.]
 [Link](https://github.com/Karthi-DStech/Generative-Adversarial-Networks-Framework)
 
-**DiffuSphere - An Object-Oriented Framework for Image Generation**
+**DiffuSphere - An Object-Oriented Diffusion Models Framework for Image Generation**
 <br>
 [**Description:** A comprehensive framework implementing DDPM, CFG, and EMA techniques for versatile diffusion model applications.]
 [Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
@@ -16,12 +16,7 @@
 **Biomaterial Discovery using Deniosing Diffusion Probabilistic Models (DDPM - Diffusion Models)** 
 <br>
 [**Description:** Developed an Object-Oriented DDPM-based pipeline for a scalable code environment.]
-[Link](https://github.com/Karthi-DStech/Diffusion-Models-Framework-for-Biomaterial-Discovery)
-
-**Classifier Free Guidance for DDPM**
-<br>
-[**Description:**A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
-[Link](https://github.com/Karthi-DStech/Classifier-Free-Guidance-Diffusion-Models)
+[Link](https://github.com/Karthi-DStech/Diffusion-Models-Pipeline-for-Biomaterial-Discovery)
 
 **Variational Auto Encoders for Biomaterial Discovery**
 <br>
@@ -62,7 +57,7 @@
 [**Description:** Created an ML workflow for analyzing and predicting healthcare test results.]
 [Link](https://github.com/Karthi-DStech/Analysis-and-Prediction-of-Test-Results-from-Patients-Heathcare-Data)
 
-**End-to-End MLOps implementation for Insurance Claims**
+**End-to-End MLOps implementation for Insurance Claims (Azure IaaC)**
 <br>
 [**Description:** Created an end-to-end MLOps pipeline for automating the deployment and monitoring of machine learning models for insurance claims prediction.]
 [Link](https://github.com/Karthi-DStech/End-to-End-MLOps-Training-for-Insurance-Claims)
@@ -101,6 +96,11 @@
 <br>
 [**Description:** Implements an object-oriented pipeline for predicting attachment levels with CNNs, ensuring modularity, reusability, and scalability while adhering to industry best practices.]
 [Link](https://github.com/Karthi-DStech/CNN-for-Predicting-Attachment-Level-of-Bacteria)
+
+**Classifier Free Guidance for DDPM**
+<br>
+[**Description:**A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
+[Link](https://github.com/Karthi-DStech/Classifier-Free-Guidance-Diffusion-Models)
 
 
 
