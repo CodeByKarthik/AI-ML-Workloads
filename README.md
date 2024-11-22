@@ -1,5 +1,12 @@
 # AI/ML Project Portfolio
 
+#### This portfolio website showcases my projects and technical expertise in cutting-edge technologies, including:
+- **Generative AI Modeling**
+- **Machine Learning and MLOps workflows**
+- **Retrieval-Augmented Generation (RAG)**
+- **Large Language Models (LLMs)**
+- **Other Deep Learning applications**
+
 ###  <span style="color:#433878">Generative AI Modelling </span>
 **- - - - - - - - - - - - - - - - - - - - - - - - -**
 
@@ -73,6 +80,11 @@
 ###  <span style="color:#433878">Retrieval Augmented Generation (RAG)</span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
+**RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retreival**
+<br>
+[**Description:** Combines semantic search with Step Back and HyDe techniques for more accurate retrieval in complex queries within RAG systems.]
+[Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
+
 **RAG Query Translation Pipeline using Open AI & LangChain**
 <br>
 [**Description:** This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
@@ -83,10 +95,6 @@
 [**Description:** Utilizes vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
 [Link](https://github.com/Karthi-DStech/VectorSearch-RAG-using-LangChain-OpenAI)
 
-**RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retreival**
-<br>
-[**Description:** Combines semantic search with Step Back and HyDe techniques for more accurate retrieval in complex queries within RAG systems.]
-[Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
 
 
 ### <span style="color:#433878">Other Deep Learning Workloads </span> 
@@ -99,7 +107,7 @@
 
 **Classifier Free Guidance for DDPM**
 <br>
-[**Description:**A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
+[**Description:** A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
 [Link](https://github.com/Karthi-DStech/Classifier-Free-Guidance-Diffusion-Models)
 
 
