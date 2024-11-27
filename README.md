@@ -17,7 +17,7 @@
 
 **DiffuSphere - An Object-Oriented Diffusion Models Framework for Image Generation**
 <br>
-[**Description:** A comprehensive framework implementing DDPM, CFG, and EMA techniques for versatile diffusion model applications.]
+[**Description:** A comprehensive framework implementing DDPM, CFG, CFG ++, EMA and Power Law Delay EMA techniques for versatile diffusion model applications.]
 [Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
 
 **Biomaterial Discovery using Deniosing Diffusion Probabilistic Models (DDPM - Diffusion Models)** 
