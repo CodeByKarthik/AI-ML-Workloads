@@ -2,9 +2,9 @@
 
 #### This portfolio website showcases my projects and technical expertise in cutting-edge technologies, including:
 - **Generative AI Modeling**
-- **Machine Learning and MLOps workflows**
+- **Generative AI (AI Agents / RAG Agents / AI Automation)**
 - **Retrieval-Augmented Generation (RAG)**
-- **Large Language Models (LLMs)**
+- **Machine Learning and MLOps workflows**
 - **Other Deep Learning applications**
 
 ###  <span style="color:#433878">Generative AI Modelling </span>
@@ -12,7 +12,7 @@
 
 **Generative Adversarial Networks (GANs Framework) for Biomaterial Discovery**
 <br>
-[**Description:** Developed a GAN-driven Object-Oriented Framework for scalable GAN integration.]
+[**Description:** Developed a GAN-driven Object-Oriented Framework for scalable 10+ GANs integration.]
 [Link](https://github.com/Karthi-DStech/Generative-Adversarial-Networks-Framework)
 
 **DiffuSphere - An Object-Oriented Diffusion Models Framework for Image Generation**
@@ -20,59 +20,34 @@
 [**Description:** A comprehensive framework implementing DDPM, CFG, CFG ++, EMA and Power Law Delay EMA techniques for versatile diffusion model applications.]
 [Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
 
-**Biomaterial Discovery using Deniosing Diffusion Probabilistic Models (DDPM - Diffusion Models)** 
-<br>
-[**Description:** Developed an Object-Oriented DDPM-based pipeline for a scalable code environment.]
-[Link](https://github.com/Karthi-DStech/Diffusion-Models-Pipeline-for-Biomaterial-Discovery)
-
 **Variational Auto Encoders for Biomaterial Discovery**
 <br>
-[**Description:** Implemented an Object-Oriented VAE-based pipeline for biomaterial discovery with standardized integration.]
+[**Description:** Implemented an Object-Oriented VAE-based pipeline for biomaterial discovery with standardised integration.]
 [Link](https://github.com/Karthi-DStech/Variational-AutoEncoders-for-Biomaterial-Discovery)
 
 
-###  <span style="color:#433878">Machine Learning & MLOps Workloads</span>
-**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
-<br>
-[**Description:** Created an Object-Oriented ML Framework for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
-[Link](https://github.com/Karthi-DStech/Object-Oriented-Pipeline-for-Machine-Learning)
 
-**Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
-<br>
-[**Description:** This project focuses on performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features.]
-[Link](https://github.com/Karthi-DStech/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines)
 
-**Scalable Machine Learning Pipeline including Model-Based and SFS Feature Selection**
-<br>
-[**Description:** Implemented a scalable ML pipeline with feature selection techniques.]
-[Link](https://github.com/Karthi-DStech/Scalable-Model-Based-and-SFS-Feature-Selection)
+###  <span style="color:#433878"> AI Agents / RAG Agents / AI Automation </span>
+**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**H1N1 & Seasonal Flu Vaccination Prediction**
+**RAG Agents - 20+ Workflows**
 <br>
-[Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 6500+ competitors.] 
-[Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
+[**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions.]
+[Link](https://github.com/Karthi-DStech/RAG-Agents)
 
-**Implementing Industry Standard Methodologies for Cirrhosis Prediction**
+**AI Automations - 30+ Workflows**
 <br>
-[**Description:** Developed a pipeline adhering to industry standards for cirrhosis prediction.]
-[Link](https://github.com/Karthi-DStech/Industry-Standard-ML-for-Cirrhosis-Prediction)
+[**Description:** Designed and implemented AI automations to streamline workflows which reduces human efforts and accelerate operational efficiency across End-to-End end processes.]
+[Link]
 
-**Analysis & Prediction of Test Results from Patients Healthcare Data**
-<br>
-[**Description:** Created an ML workflow for analyzing and predicting healthcare test results.]
-[Link](https://github.com/Karthi-DStech/Analysis-and-Prediction-of-Test-Results-from-Patients-Heathcare-Data)
 
-**End-to-End MLOps implementation for Insurance Claims (Azure IaaC)**
+**AI Agents & Voice Agents**
 <br>
-[**Description:** Created an end-to-end MLOps pipeline for automating the deployment and monitoring of machine learning models for insurance claims prediction.]
-[Link](https://github.com/Karthi-DStech/End-to-End-MLOps-Training-for-Insurance-Claims)
+[**Description:** Developed end-to-end automations for AI Agents, Multi-Agent systems, and Voice AI Agents by integrating n8n workflows with ElevenLabs, enabling seamless orchestration, voice interaction, and scalable deployment.]
+[Link]
 
-**30+ Capstone Projects of DataScience and AI/ML**
-<br>
-[**Description:** A collection of over 30 capstone projects covering various AI/ML topics]
-[Link](https://github.com/Karthi-DStech/Capstone-projects-of-Data-Science-and-AI-ML)
 
 
 
@@ -94,6 +69,55 @@
 <br>
 [**Description:** Utilizes vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
 [Link](https://github.com/Karthi-DStech/VectorSearch-RAG-using-LangChain-OpenAI)
+
+
+
+
+
+###  <span style="color:#433878">Machine Learning & MLOps Workloads</span>
+**- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
+
+**Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
+<br>
+[**Description:** Created an Object-Oriented ML Framework for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
+[Link](https://github.com/Karthi-DStech/Object-Oriented-Pipeline-for-Machine-Learning)
+
+**H1N1 & Seasonal Flu Vaccination Prediction**
+<br>
+[Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 7500+ competitors.] 
+[Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
+
+**End-to-End MLOps implementation for Insurance Claims (Azure IaaC)**
+<br>
+[**Description:** Created an end-to-end MLOps pipeline for automating the deployment and monitoring of machine learning models for insurance claims prediction.]
+[Link](https://github.com/Karthi-DStech/End-to-End-MLOps-Training-for-Insurance-Claims)
+
+**Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
+<br>
+[**Description:** This project focuses on performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features.]
+[Link](https://github.com/Karthi-DStech/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines)
+
+**Scalable Machine Learning Pipeline including Model-Based and SFS Feature Selection**
+<br>
+[**Description:** Implemented a scalable ML pipeline with feature selection techniques.]
+[Link](https://github.com/Karthi-DStech/Scalable-Model-Based-and-SFS-Feature-Selection)
+
+**Implementing Industry Standard Methodologies for Cirrhosis Prediction**
+<br>
+[**Description:** Developed a pipeline adhering to industry standards for cirrhosis prediction.]
+[Link](https://github.com/Karthi-DStech/Industry-Standard-ML-for-Cirrhosis-Prediction)
+
+**Analysis & Prediction of Test Results from Patients Healthcare Data**
+<br>
+[**Description:** Created an ML workflow for analyzing and predicting healthcare test results.]
+[Link](https://github.com/Karthi-DStech/Analysis-and-Prediction-of-Test-Results-from-Patients-Heathcare-Data)
+
+**30+ Capstone Projects of DataScience and AI/ML**
+<br>
+[**Description:** A collection of over 30 capstone projects covering various AI/ML topics]
+[Link](https://github.com/Karthi-DStech/Capstone-projects-of-Data-Science-and-AI-ML)
+
+
 
 
 
