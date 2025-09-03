@@ -1,7 +1,7 @@
 # AI/ML Project Portfolio
 
 #### This portfolio website showcases my projects and technical expertise in cutting-edge technologies, including:
-- **Generative AI Modeling**
+- **Generative AI Modelling**
 - **Generative AI (AI Agents / RAG Agents / AI Automation)**
 - **Retrieval-Augmented Generation (RAG)**
 - **Machine Learning and MLOps workflows**
@@ -32,22 +32,25 @@
 ###  <span style="color:#433878"> AI Agents / RAG Agents / AI Automation </span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
+**Business and Support AI Agents**
+<br>
+[**Description:** Developed Business and Support AI Agents (10+ real-life scenarios) to handle customer queries, automate support tasks, and provide real-time assistance, improving response times, reducing manual intervention, and enhancing overall customer experience.]
+[Link]
+
+**Voice AI Agents & Advanced Multi Agents with MCP Integration**
+<br>
+[**Description:** Built Voice AI Agents and advanced Multi-Agent systems with MCP integration, enabling natural voice interactions, seamless orchestration between agents, and scalable deployment for complex real-world workflows.] 
+
 **RAG Agents - 20+ Workflows**
 <br>
 [**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions.]
 [Link](https://github.com/Karthi-DStech/RAG-Agents)
-
-**AI Automations - 30+ Workflows**
-<br>
-[**Description:** Designed and implemented AI automations to streamline workflows which reduces human efforts and accelerate operational efficiency across End-to-End end processes.]
 [Link]
 
-
-**AI Agents & Voice Agents**
+**AI Agents & AI Automations - 30+ Workflows**
 <br>
-[**Description:** Developed end-to-end automations for AI Agents, Multi-Agent systems, and Voice AI Agents by integrating n8n workflows with ElevenLabs, enabling seamless orchestration, voice interaction, and scalable deployment.]
+[**Description:** Designed and implemented AI automations to streamline workflows and automated decision making to reduce human efforts and accelerate operational efficiency across End-to-End processes.]
 [Link]
-
 
 
 
@@ -55,7 +58,7 @@
 ###  <span style="color:#433878">Retrieval Augmented Generation (RAG)</span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retreival**
+**RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retrieval**
 <br>
 [**Description:** Combines semantic search with Step Back and HyDe techniques for more accurate retrieval in complex queries within RAG systems.]
 [Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
@@ -67,7 +70,7 @@
 
 **RAG - Vector Search Pipeline for efficient retrieval**
 <br>
-[**Description:** Utilizes vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
+[**Description:** Utilises vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
 [Link](https://github.com/Karthi-DStech/VectorSearch-RAG-using-LangChain-OpenAI)
 
 
