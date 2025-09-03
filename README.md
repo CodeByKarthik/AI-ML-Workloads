@@ -10,17 +10,17 @@
 ###  <span style="color:#433878">Generative AI Modelling </span>
 **- - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**Generative Adversarial Networks (GANs Framework) for Biomaterial Discovery**
+**✦ Generative Adversarial Networks (GANs Framework) for Biomaterial Discovery**
 <br>
 [**Description:** Developed a GAN-driven Object-Oriented Framework for scalable 10+ GANs integration.]
 [Link](https://github.com/Karthi-DStech/Generative-Adversarial-Networks-Framework)
 
-**DiffuSphere - An Object-Oriented Diffusion Models Framework for Image Generation**
+**✦ DiffuSphere - An Object-Oriented Diffusion Models Framework for Image Generation**
 <br>
 [**Description:** A comprehensive framework implementing DDPM, CFG, CFG ++, EMA and Power Law Delay EMA techniques for versatile diffusion model applications.]
 [Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
 
-**Variational Auto Encoders for Biomaterial Discovery**
+**✦ Variational Auto Encoders for Biomaterial Discovery**
 <br>
 [**Description:** Implemented an Object-Oriented VAE-based pipeline for biomaterial discovery with standardised integration.]
 [Link](https://github.com/Karthi-DStech/Variational-AutoEncoders-for-Biomaterial-Discovery)
