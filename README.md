@@ -44,7 +44,7 @@
 
 **RAG Agents - 20+ Workflows**
 <br>
-[**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions.]
+[**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions that ensure full data control while leveraging LLM capabilities.]
 [Link](https://github.com/Karthi-DStech/RAG-Agents)
 
 **AI Agents & AI Automations - 30+ Workflows**
