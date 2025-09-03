@@ -20,9 +20,9 @@
 [**Description:** A comprehensive framework implementing DDPM, CFG, CFG ++, EMA and Power Law Delay EMA techniques for versatile diffusion model applications.]
 [Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
 
-<h4><span style="background-color:#433878; color:red; padding:6px; border-radius:6px;">
+<h3><span style="background-color:#433878; color:white; padding:6px; border-radius:6px;">
 Variational Auto Encoders for Biomaterial Discovery
-</span></h4>
+</span></h3>
 <br>
 [**Description:** Implemented an Object-Oriented VAE-based pipeline for biomaterial discovery with standardised integration.]
 [Link](https://github.com/Karthi-DStech/Variational-AutoEncoders-for-Biomaterial-Discovery)
