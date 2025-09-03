@@ -32,22 +32,22 @@
 ###  <span style="color:#433878"> AI Agents / RAG Agents / AI Automation </span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**Business and Support AI Agents**
+⚙︎ **Business and Support AI Agents**
 <br>
 [**Description:** Developed Business and Support AI Agents (10+ real-life scenarios) to handle customer queries, automate support tasks, and provide real-time assistance, improving response times, reducing manual intervention, and enhancing overall customer experience.]
 [Link]
 
-**Voice AI Agents & Advanced Multi Agents with MCP Integration**
+⚙︎ **Voice AI Agents & Advanced Multi Agents with MCP Integration**
 <br>
 [**Description:** Built Voice AI Agents and advanced Multi-Agent systems with MCP integration, enabling natural voice interactions, seamless orchestration between agents, and scalable deployment for complex real-world workflows.] 
 [Link]
 
-**RAG Agents - 20+ Workflows**
+⚙︎ **RAG Agents - 20+ Workflows**
 <br>
 [**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions that ensure full data control while leveraging LLM capabilities.]
 [Link](https://github.com/Karthi-DStech/RAG-Agents)
 
-**AI Agents & AI Automations - 30+ Workflows**
+⚙︎ **AI Agents & AI Automations - 30+ Workflows**
 <br>
 [**Description:** Designed and implemented AI automations to streamline workflows and automated decision making to reduce human efforts and accelerate operational efficiency across End-to-End processes.]
 [Link]
@@ -58,17 +58,17 @@
 ###  <span style="color:#433878">Retrieval Augmented Generation (RAG)</span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retrieval**
+⚙︎ **RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retrieval**
 <br>
 [**Description:** Combines semantic search with Step Back and HyDe techniques for more accurate retrieval in complex queries within RAG systems.]
 [Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
 
-**RAG Query Translation Pipeline using Open AI & LangChain**
+⚙︎ **RAG Query Translation Pipeline using Open AI & LangChain**
 <br>
 [**Description:** This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
 [Link](https://github.com/Karthi-DStech/RAG-Query-Translation--Semantic-Search)
 
-**RAG - Vector Search Pipeline for efficient retrieval**
+⚙︎ **RAG - Vector Search Pipeline for efficient retrieval**
 <br>
 [**Description:** Utilises vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
 [Link](https://github.com/Karthi-DStech/VectorSearch-RAG-using-LangChain-OpenAI)
@@ -80,42 +80,42 @@
 ###  <span style="color:#433878">Machine Learning & MLOps Workloads</span>
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
+⚙︎ **Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
 <br>
 [**Description:** Created an Object-Oriented ML Framework for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
 [Link](https://github.com/Karthi-DStech/Object-Oriented-Pipeline-for-Machine-Learning)
 
-**H1N1 & Seasonal Flu Vaccination Prediction**
+⚙︎ **H1N1 & Seasonal Flu Vaccination Prediction**
 <br>
 [Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 7500+ competitors.] 
 [Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
 
-**End-to-End MLOps implementation for Insurance Claims (Azure IaaC)**
+⚙︎ **End-to-End MLOps implementation for Insurance Claims (Azure IaaC)**
 <br>
 [**Description:** Created an end-to-end MLOps pipeline for automating the deployment and monitoring of machine learning models for insurance claims prediction.]
 [Link](https://github.com/Karthi-DStech/End-to-End-MLOps-Training-for-Insurance-Claims)
 
-**Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
+⚙︎ **Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
 <br>
 [**Description:** This project focuses on performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features.]
 [Link](https://github.com/Karthi-DStech/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines)
 
-**Scalable Machine Learning Pipeline including Model-Based and SFS Feature Selection**
+⚙︎ **Scalable Machine Learning Pipeline including Model-Based and SFS Feature Selection**
 <br>
 [**Description:** Implemented a scalable ML pipeline with feature selection techniques.]
 [Link](https://github.com/Karthi-DStech/Scalable-Model-Based-and-SFS-Feature-Selection)
 
-**Implementing Industry Standard Methodologies for Cirrhosis Prediction**
+⚙︎ **Implementing Industry Standard Methodologies for Cirrhosis Prediction**
 <br>
 [**Description:** Developed a pipeline adhering to industry standards for cirrhosis prediction.]
 [Link](https://github.com/Karthi-DStech/Industry-Standard-ML-for-Cirrhosis-Prediction)
 
-**Analysis & Prediction of Test Results from Patients Healthcare Data**
+⚙︎ **Analysis & Prediction of Test Results from Patients Healthcare Data**
 <br>
 [**Description:** Created an ML workflow for analyzing and predicting healthcare test results.]
 [Link](https://github.com/Karthi-DStech/Analysis-and-Prediction-of-Test-Results-from-Patients-Heathcare-Data)
 
-**30+ Capstone Projects of DataScience and AI/ML**
+⚙︎ **30+ Capstone Projects of DataScience and AI/ML**
 <br>
 [**Description:** A collection of over 30 capstone projects covering various AI/ML topics]
 [Link](https://github.com/Karthi-DStech/Capstone-projects-of-Data-Science-and-AI-ML)
@@ -127,12 +127,12 @@
 ### <span style="color:#433878">Other Deep Learning Workloads </span> 
 **- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-**Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)**
+⚙︎ **Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)**
 <br>
 [**Description:** Implements an object-oriented pipeline for predicting attachment levels with CNNs, ensuring modularity, reusability, and scalability while adhering to industry best practices.]
 [Link](https://github.com/Karthi-DStech/CNN-for-Predicting-Attachment-Level-of-Bacteria)
 
-**Classifier Free Guidance for DDPM**
+⚙︎ **Classifier Free Guidance for DDPM**
 <br>
 [**Description:** A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
 [Link](https://github.com/Karthi-DStech/Classifier-Free-Guidance-Diffusion-Models)
