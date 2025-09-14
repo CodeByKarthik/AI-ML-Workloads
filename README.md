@@ -73,11 +73,6 @@
 [**Description:** This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
 [Link](https://github.com/Karthi-DStech/RAG-Query-Translation--Semantic-Search)
 
-⚙︎ **RAG - Vector Search Pipeline for efficient retrieval**
-<br>
-[**Description:** Utilises vector embeddings for faster, similarity-based searches in RAG systems, enhancing retrieval efficiency.]
-[Link](https://github.com/Karthi-DStech/VectorSearch-RAG-using-LangChain-OpenAI)
-
 
 
 
