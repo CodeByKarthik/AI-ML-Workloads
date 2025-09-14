@@ -37,11 +37,6 @@
 [**Description:** Developed Business and Support AI Agents (10+ real-life scenarios) to handle customer queries, automate support tasks, and provide real-time assistance, improving response times, reducing manual intervention, and enhancing overall customer experience.]
 [Link](https://github.com/Karthi-DStech/Business-Support-AI-Agents)
 
-⚙︎ **Voice AI Agents & Advanced Multi Agents with MCP Integration**
-<br>
-[**Description:** Built Voice AI Agents and advanced Multi-Agent systems with MCP integration, enabling natural voice interactions, seamless orchestration between agents, and scalable deployment for complex real-world workflows.] 
-[Link](https://github.com/Karthi-DStech/Voice-AI-Agents-Advanced-Multi-Agents-with-MCP-Integration)
-
 ⚙︎ **RAG Agents - 20+ Workflows**
 <br>
 [**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions that ensure full data control while leveraging LLM capabilities.]
