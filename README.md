@@ -55,7 +55,7 @@
 
 ⚙︎ **Graph RAG Framework - Neo4j + Lang Chain**
 <br>
-[**Description: RAG Framework that builds a Neo4j knowledge graph & Embeddings and uses LangChain + LLMs for hybrid search and Cypher-based QA.**]
+[**Description:** RAG Framework that builds a Neo4j knowledge graph & Embeddings and uses LangChain + LLMs for hybrid search and Cypher-based QA.]
 [Link](https://github.com/Karthi-DStech/Graph-RAG-Framework)
 
 ⚙︎ **RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retrieval**
