@@ -13,17 +13,17 @@
 ⚙︎ **Generative Adversarial Networks (GANs Framework) for Biomaterial Discovery**
 <br>
 [**Description:** Developed a GAN-driven Object-Oriented Framework for scalable 10+ GANs integration.]
-[Link](https://github.com/Karthi-DStech/Generative-Adversarial-Networks-Framework)
+[Link](https://github.com/CodeByKarthik/Generative-Adversarial-Networks-Framework)
 
 ⚙︎ **DiffuSphere - An Object-Oriented Diffusion Models Framework for Image Generation**
 <br>
 [**Description:** A comprehensive framework implementing DDPM, CFG, CFG ++, EMA and Power Law Delay EMA techniques for versatile diffusion model applications.]
-[Link](https://github.com/Karthi-DStech/DiffuSphere-Object-Oriented-Framework-)
+[Link](https://github.com/CodeByKarthik/DiffuSphere-Object-Oriented-Framework-)
 
 ⚙︎ **Variational Auto Encoders for Biomaterial Discovery**
 <br>
 [**Description:** Implemented an Object-Oriented VAE-based pipeline for biomaterial discovery with standardised integration.]
-[Link](https://github.com/Karthi-DStech/Variational-AutoEncoders-for-Biomaterial-Discovery)
+[Link](https://github.com/CodeByKarthik/Variational-AutoEncoders-for-Biomaterial-Discovery)
 
 
 
@@ -35,17 +35,17 @@
 ⚙︎ **Business and Support AI Agents**
 <br>
 [**Description:** Developed Business and Support AI Agents (10+ real-life scenarios) to handle customer queries, automate support tasks, and provide real-time assistance, improving response times, reducing manual intervention, and enhancing overall customer experience.]
-[Link](https://github.com/Karthi-DStech/Business-Support-AI-Agents)
+[Link](https://github.com/CodeByKarthik/Business-Support-AI-Agents)
 
 ⚙︎ **RAG Agents - 20+ Workflows**
 <br>
 [**Description:** Implemented 20+ RAG agents using industry standards and reusable components, designed for production-grade solutions that ensure full data control while leveraging LLM capabilities.]
-[Link](https://github.com/Karthi-DStech/RAG-Agents)
+[Link](https://github.com/CodeByKarthik/RAG-Agents)
 
 ⚙︎ **AI Agents & AI Automations - 30+ Workflows**
 <br>
 [**Description:** Designed and implemented AI automations to streamline workflows and automated decision making to reduce human efforts and accelerate operational efficiency across End-to-End processes.]
-[Link](https://github.com/Karthi-DStech/AI-Agents-AI-Automations)
+[Link](https://github.com/CodeByKarthik/AI-Agents-AI-Automations)
 
 
 
@@ -56,17 +56,17 @@
 ⚙︎ **Graph RAG Framework - Neo4j + Lang Chain**
 <br>
 [**Description:** RAG Framework that builds a Neo4j knowledge graph & Embeddings and uses LangChain + LLMs for hybrid search and Cypher-based QA.]
-[Link](https://github.com/Karthi-DStech/Graph-RAG-Framework)
+[Link](https://github.com/CodeByKarthik/Graph-RAG-Framework)
 
 ⚙︎ **RAG - Step-Back & HyDe (Semantic-Search) Pipeline for Complex Retrieval**
 <br>
 [**Description:** Combines semantic search with Step Back and HyDe techniques for more accurate retrieval in complex queries within RAG systems.]
-[Link](https://github.com/Karthi-DStech/RAG-Step-Back-and-HyDe-Semantic-Search)
+[Link](https://github.com/CodeByKarthik/RAG-Step-Back-and-HyDe-Semantic-Search)
 
 ⚙︎ **RAG Query Translation Pipeline using Open AI & LangChain**
 <br>
 [**Description:** This repository contains code for performing Query Translation techniques in RAG (Retrieval-Augmented Generation).]
-[Link](https://github.com/Karthi-DStech/RAG-Query-Translation--Semantic-Search)
+[Link](https://github.com/CodeByKarthik/RAG-Query-Translation--Semantic-Search)
 
 
 
@@ -78,42 +78,42 @@
 ⚙︎ **Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
 <br>
 [**Description:** Created an Object-Oriented ML Framework for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
-[Link](https://github.com/Karthi-DStech/Object-Oriented-Pipeline-for-Machine-Learning)
+[Link](https://github.com/CodeByKarthik/Object-Oriented-Pipeline-for-Machine-Learning)
 
 ⚙︎ **H1N1 & Seasonal Flu Vaccination Prediction**
 <br>
 [Description: Predicts individuals' likelihood of receiving H1N1 and seasonal flu vaccines using health data with machine learning models and ranked 20 out of 7500+ competitors.] 
-[Link](https://github.com/Karthi-DStech/Predicting-H1N1-and-Seasonal-Flu-Uptake)
+[Link](https://github.com/CodeByKarthik/Predicting-H1N1-and-Seasonal-Flu-Uptake)
 
 ⚙︎ **End-to-End MLOps implementation for Insurance Claims (Azure IaaC)**
 <br>
 [**Description:** Created an end-to-end MLOps pipeline for automating the deployment and monitoring of machine learning models for insurance claims prediction.]
-[Link](https://github.com/Karthi-DStech/End-to-End-MLOps-Training-for-Insurance-Claims)
+[Link](https://github.com/CodeByKarthik/End-to-End-MLOps-Training-for-Insurance-Claims)
 
 ⚙︎ **Performance Evaluation and Predictive Maintenance of Semiconductor Manufacturing Machines**
 <br>
 [**Description:** This project focuses on performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features.]
-[Link](https://github.com/Karthi-DStech/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines)
+[Link](https://github.com/CodeByKarthik/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines)
 
 ⚙︎ **Scalable Machine Learning Pipeline including Model-Based and SFS Feature Selection**
 <br>
 [**Description:** Implemented a scalable ML pipeline with feature selection techniques.]
-[Link](https://github.com/Karthi-DStech/Scalable-Model-Based-and-SFS-Feature-Selection)
+[Link](https://github.com/CodeByKarthik/Scalable-Model-Based-and-SFS-Feature-Selection)
 
 ⚙︎ **Implementing Industry Standard Methodologies for Cirrhosis Prediction**
 <br>
 [**Description:** Developed a pipeline adhering to industry standards for cirrhosis prediction.]
-[Link](https://github.com/Karthi-DStech/Industry-Standard-ML-for-Cirrhosis-Prediction)
+[Link](https://github.com/CodeByKarthik/Industry-Standard-ML-for-Cirrhosis-Prediction)
 
 ⚙︎ **Analysis & Prediction of Test Results from Patients Healthcare Data**
 <br>
 [**Description:** Created an ML workflow for analyzing and predicting healthcare test results.]
-[Link](https://github.com/Karthi-DStech/Analysis-and-Prediction-of-Test-Results-from-Patients-Heathcare-Data)
+[Link](https://github.com/CodeByKarthik/Analysis-and-Prediction-of-Test-Results-from-Patients-Heathcare-Data)
 
 ⚙︎ **30+ Capstone Projects of DataScience and AI/ML**
 <br>
 [**Description:** A collection of over 30 capstone projects covering various AI/ML topics]
-[Link](https://github.com/Karthi-DStech/Capstone-projects-of-Data-Science-and-AI-ML)
+[Link](https://github.com/CodeByKarthik/Capstone-projects-of-Data-Science-and-AI-ML)
 
 
 
@@ -125,12 +125,12 @@
 ⚙︎ **Predicting the Attachment Level using Convolutional Neural Networks (Industry Standard Pipeline with Best Practices)**
 <br>
 [**Description:** Implements an object-oriented pipeline for predicting attachment levels with CNNs, ensuring modularity, reusability, and scalability while adhering to industry best practices.]
-[Link](https://github.com/Karthi-DStech/CNN-for-Predicting-Attachment-Level-of-Bacteria)
+[Link](https://github.com/CodeByKarthik/CNN-for-Predicting-Attachment-Level-of-Bacteria)
 
 ⚙︎ **Classifier Free Guidance for DDPM**
 <br>
 [**Description:** A repository featuring Conditional Guidance Framework (CFG) and advanced diffusion models for generative modelling]
-[Link](https://github.com/Karthi-DStech/Classifier-Free-Guidance-Diffusion-Models)
+[Link](https://github.com/CodeByKarthik/Classifier-Free-Guidance-Diffusion-Models)
 
 
 
