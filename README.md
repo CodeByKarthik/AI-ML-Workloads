@@ -78,7 +78,7 @@
 ⚙︎ **Object-Oriented Framework for Machine Learning (Industry Standard & Best Practices)**
 <br>
 [**Description:** Created an Object-Oriented ML Framework for modularity, reusability, and maintainability.(View any logs in the Artifacts folder for better understanding).]
-[Link](https://github.com/CodeByKarthik/Object-Oriented-Pipeline-for-Machine-Learning)
+[Link](https://github.com/CodeByKarthik/Object-Oriented-Framework-for-Machine-Learning)
 
 ⚙︎ **H1N1 & Seasonal Flu Vaccination Prediction**
 <br>
